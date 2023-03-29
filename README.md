@@ -1,4 +1,3 @@
-# simongame
 # Simon Game
 
 ## About the Project
